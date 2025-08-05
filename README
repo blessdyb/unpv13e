@@ -112,3 +112,8 @@ not "yet" at the level of Posix.1g or X/Open XNS Issue 5.
   instead of t_uscalar_t, some of the printf formats of these value
   might generate warnings from your compiler, since you are printing
   a long without a corresponding long format specifier.
+
+EBOOK
+-------------
+https://github.com/ben-elbert/books/blob/master/UNIX%20Network%20Programming%2C%20Volume%201%2C%20Third%20Edition%2C%20The%20Sockets%20Networking%20API.pdf
+
